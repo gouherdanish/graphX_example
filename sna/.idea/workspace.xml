@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="17" />
     <option name="y" value="40" />
     <option name="width" value="1400" />
@@ -98,6 +98,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RunDashboard">
@@ -112,8 +113,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.sna (1)">
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="sna (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sna" />
+      <module name="sna" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="sna" type="Application" factoryName="Application" temporary="true">
@@ -165,8 +171,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.sna" />
+      <item itemvalue="Application.sna (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sna (1)" />
         <item itemvalue="Application.sna" />
       </list>
     </recent_temporary>

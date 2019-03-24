@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sun Mar 24 20:12:18 IST 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0169-b026-fa1b-000008a62650 
-on database directory /Users/bdiplus/Desktop/idpp/sna/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@79c3f01f 
+Sun Mar 24 20:21:38 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0169-b02f-835d-000008f36208 
+on database directory /Users/bdiplus/Desktop/Dan/Git/graphX_example/sna/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@405325cf 
 Loaded from file:/Users/bdiplus/.ivy2/cache/org.apache.derby/derby/jars/derby-10.10.2.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_181-b13
-user.dir=/Users/bdiplus/Desktop/idpp/sna
+user.dir=/Users/bdiplus/Desktop/Dan/Git/graphX_example/sna
 os.name=Mac OS X
 os.arch=x86_64
 os.version=10.14.1

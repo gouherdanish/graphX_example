@@ -4,7 +4,7 @@
 		module="sna$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190324174817"
+		publication="20190324202214"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
